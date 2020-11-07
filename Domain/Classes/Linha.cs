@@ -16,7 +16,7 @@ namespace Domain.Classes
 
         public virtual int Numero { get; set; }
 
-        public virtual Empresa Empresa { get; set; }
+        //public virtual Empresa Empresa { get; set; }
 
         public virtual string LinhaMap { get; set; }
     }
